@@ -6,6 +6,17 @@
 ## 💡 Overview  
 Brand Voice Trainer ensures messaging consistency by analyzing content and comparing it to brand tone and founder voice guidelines. It streamlines content QA and empowers teams to write with clarity and alignment — especially useful in fast-paced, high-volume content environments.
 
+## Problem:
+Podcast asset production was tedious and manual, consuming hours of review and formatting every week.
+
+## Solution:
+Built an AI workflow that parses transcripts, extracts key takeaways, suggests clips, titles, captions, and thumbnails — with a human QA layer before publishing.
+
+## Results:
+- 4+ hours/week saved in manual asset creation
+- Streamlined collaboration between editors and marketing
+- Consistent branding across episodes
+
 ---
 
 ## ✨ Key Features
