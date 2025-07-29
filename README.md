@@ -65,9 +65,9 @@ Creator → Draft → Brand Voice Trainer → Self-Edit → Publish
 ---
 
 ## 📌 Project Status  
-✅ Voice Training + Prompt Architecture Complete 
-🟡 Prompt Refinement Ongoing  
-🔴 Automation/UI Layer: Next phase (n8n or Replit)
+- ✅ Voice Training + Prompt Architecture Complete 
+- 🟡 Prompt Refinement Ongoing  
+- 🔴 Automation/UI Layer: Next phase (n8n or Replit)
 
 ---
 
