@@ -1,52 +1,53 @@
 # Brand Voice Trainer 🗣️🤖  
-**An AI-powered assistant that helps align content with brand voice using structured GPT-4 prompts and training data.**
+**An AI-powered assistant that aligns content with brand voice using structured GPT-4 prompts and training data.**
 
 ---
 
 ## 💡 Overview  
-Brand Voice Trainer ensures messaging consistency by analyzing content and comparing it to brand tone and founder voice guidelines. It streamlines content QA and empowers teams to write with clarity and alignment — especially useful in fast-paced, high-volume content environments.
+Brand Voice Trainer ensures messaging consistency by analyzing content against a founder’s tone and narrative style. It streamlines content QA and empowers teams to write with clarity and alignment - especially useful in fast-paced, high-volume environments.
 
-## Problem:
-Podcast asset production was tedious and manual, consuming hours of review and formatting every week.
+## 🧩 Problem → Solution → Results
 
-## Solution:
-Built an AI workflow that parses transcripts, extracts key takeaways, suggests clips, titles, captions, and thumbnails — with a human QA layer before publishing.
+### Problem:
+Podcast asset production was tedious and manual, requiring multiple rounds of review and formatting each week.
 
-## Results:
-- 4+ hours/week saved in manual asset creation
+### Solution:
+Built an AI-driven workflow that parses transcripts, extracts key takeaways, suggests clips, titles, captions, and thumbnail prompts, with a human QA layer before publishing.
+
+### Results:
+- Saved 4+ hours/week in manual asset creation
 - Streamlined collaboration between editors and marketing
-- Consistent branding across episodes
+- Maintained consistent branding across episodes
 
 ---
 
 ## ✨ Key Features
-- Review content drafts for tone and phrasing alignment  
-- Provide specific, actionable feedback and rewrite suggestions  
-- Trained on brand voice brief, approved examples, and flagged generic content  
-- Maintains narrative tone while accelerating review cycles
+- Analyzes drafts for tone and phrasing alignment
+- Provides actionable feedback and rewrite suggestions
+- Trained on custom brand voice briefs and narrative samples
+- Accelerates review cycles without diluting personality
 
 ---
 
 ## 🛠️ Tools Used
-- **GPT-4** (prompt engine for content evaluation)  
-- **Claris/FileMaker** (secure enterprise deployment)  
-- **Claude** (used for prompt iteration and refinement)  
-- **JSON-based training format** (structured persona + examples)  
-- **Google Docs / Notion** (source materials and documentation)
+- **GPT-4** (Core prompt engine for tone analysis and rewrite generation)  
+- **Claude** (Used for prompt testing, refinement, and QA comparison)  
+- **JSON** (Structured format for persona, voice principles, and examples)  
+- **Google Docs / Notion** (Source documentation and collaborative editing)
 
 ---
 
-## 🔧 Technical Details
+## 🔧 Technical Highlights
 
 **Prompt Engineering:**  
-- Structured prompts referencing 10-step voice framework  
-- Evaluates tone, personality, clarity, and founder alignment  
-- Offers inline edits and rewrite guidance  
+- Uses a 10-step voice alignment framework
+- Evaluates clarity, tone, authenticity, and founder match
+- Offers inline edits + strategic rewrite options 
 
 **Training Data:**  
-- 3–4 page voice brief  
-- Founder-authored posts and storytelling samples  
-- Generic examples flagged for correction  
+- Brand voice brief (3–4 pages)
+- Founder-authored posts and storytelling samples
+- Generic examples labeled for filtering and correction 
 
 **Workflow Integration:**  
 ```
@@ -58,15 +59,15 @@ Creator → Draft → Brand Voice Trainer → Self-Edit → Publish
 ## 📊 Results  
 - ⏱️ 60% reduction in content review time  
 - 🧠 Increased copywriter autonomy and consistency  
-- 📝 Maintained founder voice even under resource constraints  
+- 📝 Protected founder voice even under resource constraints  
 - 🚀 Zero delays in content publishing after rollout
 
 ---
 
 ## 📌 Project Status  
-✅ Planning & Training Complete  
+✅ Voice Training + Prompt Architecture Complete 
 🟡 Prompt Refinement Ongoing  
-🔴 UI/Automation Layer (Not Started)
+🔴 Automation/UI Layer: Next phase (n8n or Replit)
 
 ---
 
@@ -78,7 +79,7 @@ Creator → Draft → Brand Voice Trainer → Self-Edit → Publish
 
 ## 👤 Creator  
 **Ros Talbot** — AI Workflow Architect | Creative Project Manager  
-Building systems that enhance creative output through AI + automation.
+Building systems that enhance creative output through automation + authenticity.
 
 🌐 [rostalbot.com](https://rostalbot.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/rostalbot)  
