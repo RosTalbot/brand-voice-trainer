@@ -1,5 +1,6 @@
 # Brand Voice Trainer 🗣️🤖  
-**An AI-powered assistant that aligns content with brand voice using structured GPT-4 prompts and training data.**
+**An AI-powered system that ensures brand voice consistency using structured GPT-4 prompts and training data.
+Built with an agent-first architecture that blends LLM automation with human review to eliminate bottlenecks without sacrificing tone integrity.**
 
 ---
 
